@@ -3,5 +3,6 @@ Important Shortcuts for Mac
 ## Chrome
 | Description      | Shortcut             |
 | ---------------- | -------------------- |
-| Chrome Inspector Console | Command + Option + J |
-| Chrome Inspector Element | Command + Option + C |
+| Inspector Console | Command + Option + J |
+| Inspector Element | Command + Option + C |
+| Hard Reload       | Command + Shift + R  |
